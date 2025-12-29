@@ -1,0 +1,7 @@
+{
+  "name": "SNCB Planning Parser Pro",
+  "description": "Outil d'expertise pour les agents SNCB/NMBS permettant de convertir les roulements en JSON structuré et calendrier visuel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
